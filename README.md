@@ -6,4 +6,4 @@ This part of the codebase is modified from DETR https://github.com/facebookresea
       journal={ArXiv},
       year={2020},
       volume={abs/2005.12872}
-    }
+    }# detr-copy-trainlocal
